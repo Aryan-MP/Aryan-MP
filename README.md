@@ -9,10 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Aryan-MP/Aryan-MP/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
