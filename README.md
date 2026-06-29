@@ -1,68 +1,49 @@
-<h4 align="left">Hi there 👋<br>🚀 Aspiring Cloud Architect & Software Developer 🌐<br><br>Hey there! 👋 I'm Aryan, a dedicated student with a fervor for all things cloud and software development. 🌟<br><br>💻 Currently immersed in the world of code, I'm on a mission to craft seamless digital experiences. My playground includes cloud technologies, where I'm constantly exploring and building with platforms like AWS, Azure, and GCP.<br><br>🚀 Whether it's architecting scalable solutions in the cloud or crafting elegant code on the ground, I thrive on the challenge of turning ideas into reality.<br><br>🌈 Here's what's brewing in my coding cauldron:<br><br>☁️ Cloud enthusiast exploring the vast skies of AWS, Azure, and GCP. 🚀 DevOps advocate, because automation is my love language. 🌟 When I'm not typing away on my keyboard, you can find me chasing the latest tech trends, contributing to open-source projects, or brewing the perfect cup of coffee. ☕<br><br>🔗 Let's connect and build something awesome together! 💡<br><br>Happy coding! 🚀✨</h4>
+### Aryan
 
-###
+Developer drawn to the unglamorous half of software — the part that has to stay
+up at 3 a.m. I care about how systems behave under load, how they fail, and how
+to make failure boring. Working my way toward **SRE and systems architecture**.
+
+> Everyone says *think outside the box.*
+> I've found the solution is usually **inside** the box — reason from first
+> principles, take the box apart, and see how it actually works.
+
+---
+
+**What I'm doing right now**
+
+- 🛠 Building [**Dot**](https://github.com/Aryan-MP/dot-context-engine) — a local-first,
+  shared memory layer for AI agents. SQLite + a vector index, a ranking engine, and a
+  forgetting curve, all running as a quiet background daemon.
+- 📖 Working through **Designing Data-Intensive Applications** (Kleppmann) — replication,
+  partitioning, consistency, and the tradeoffs nobody warns you about up front.
+- 🧭 Going deep on distributed systems, observability, and the discipline of reliability.
+
+**What I reach for**
+
+```
+Languages    Python · TypeScript · C / C++
+Systems      Linux · Docker · Kubernetes · Terraform
+Cloud        AWS · Azure · GCP
+Workflow     Git · GitHub Actions · a healthy fear of untested deploys
+```
+
+**A few things I believe**
+
+- Reason from first principles. Most "best practices" are just someone else's context.
+- Boring, observable systems beat clever, opaque ones.
+- The interesting question is never *"does it work?"* — it's *"how does it fail?"*
+- Write the decision down. Future-you is a stranger who doesn't return your calls.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-MP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan-MP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-MP&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&hide_title=true" height="150" alt="GitHub stats" />
 </div>
 
-###
+<p align="center"><i>The solution is usually inside the box.</i></p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webflow" height="40" alt="webflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=openstack" height="40" alt="openstack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-</div>
-
-###
+<p align="center">
+  <a href="https://github.com/Aryan-MP/dot-context-engine">Dot</a> ·
+  <a href="mailto:aryanmp2003@gmail.com">Email</a>
+</p>
